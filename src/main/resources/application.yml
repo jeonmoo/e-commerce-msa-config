@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: ecommerce-config-server
+    name: config-server
 
   cloud:
     config:
